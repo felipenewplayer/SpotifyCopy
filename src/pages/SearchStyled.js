@@ -85,7 +85,7 @@ header h2{
 
 section{
   background-color:#181818;
-  height:778px;
+  min-height:100%;
   display:flex; 
   flex-wrap:wrap;
   align-items:center; 
