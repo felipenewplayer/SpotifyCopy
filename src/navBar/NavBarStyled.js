@@ -9,7 +9,7 @@ import styled from 'styled-components';
     flex-direction:column;
     align-items:center;
     width:200px;
-    height:100vh;
+    min-height:100vh;
     padding:10px;
 
     div {
