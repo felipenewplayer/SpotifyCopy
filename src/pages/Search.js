@@ -10,6 +10,7 @@ export const Search = () => {
         <input type="text" placeholder="What do you want to listen to ?" />
         <div>
         <p><Link to ='/signUp'>Sign up</Link></p>
+         <button><Link to ='/log in'>Log in </Link></button>
         </div>
       </Header>
       <Section>
