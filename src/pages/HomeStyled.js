@@ -93,7 +93,7 @@ export const Header = styled.header`
 
       section{
         background-color:#181818;
-        height:798px;
+        min-height:100%;
         display:flex; 
         flex-wrap:wrap;
         align-items:center; 
