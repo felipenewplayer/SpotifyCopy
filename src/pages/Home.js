@@ -8,7 +8,7 @@ export const Home = () => {
       <Header>
         <div>
           <p><Link to ='/signUp'>Sign up</Link></p>
-          <button><Link to ='/login'>Log in</Link> </button>
+         <Link to ='/login'><button>Log in</button></Link> 
         </div>
       </Header>
       <Section>
